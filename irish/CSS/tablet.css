@@ -1,0 +1,25 @@
+#navbar {
+    flex-direction: column;
+    padding-top: 0.4rem;
+    padding-bottom: 0.4rem;
+    overflow: hidden;
+    height: 6rem;
+}
+
+#lesson .items {
+    flex-direction: column;
+}
+
+#lesson .items .item {
+    width: 100%;
+}
+
+.background {
+    background: url(Images/3.jpg) center center no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+
+.courses {
+    flex-direction: column;
+}
